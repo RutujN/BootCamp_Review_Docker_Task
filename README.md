@@ -13,7 +13,11 @@ The project features:
 The interface uses a warm cream-gradient design system, interactive statistics cards, curriculum-based filtering, custom notifications, rating components, and double-click delete confirmation for improved user experience.
 
 ---
+# Application Preview
 
+![Bootcamp Review Hub](assets/Full_size_screenshot.png)
+
+---
 # Project Structure
 
 ```text
