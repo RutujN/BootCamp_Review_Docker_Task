@@ -1,0 +1,67 @@
+[
+  {
+    "id": "rev-1",
+    "week": 1,
+    "reviewer": "Aarav Sharma",
+    "rating": 5,
+    "review": "React Fundamentals (1/2) was an amazing introduction. Setting up the Vite environment was straightforward and the concepts of components and props were explained very clearly. Managing state using the useState hook is satisfying.",
+    "createdAt": "2026-07-13T08:50:00.000Z",
+    "helpfulCount": 3,
+    "tags": [
+      "Clarity",
+      "Support"
+    ]
+  },
+  {
+    "id": "rev-2",
+    "week": 2,
+    "reviewer": "Priya Patel",
+    "rating": 4,
+    "review": "React Fundamentals (2/2) was excellent. The dashboard mini-project was challenging, especially managing data fetching with useEffect, but it really helped solidify my state and props understanding.",
+    "createdAt": "2026-07-15T08:50:00.000Z",
+    "helpfulCount": 5,
+    "tags": [
+      "Complexity",
+      "Workload"
+    ]
+  },
+  {
+    "id": "rev-3",
+    "week": 3,
+    "reviewer": "Amit Verma",
+    "rating": 4,
+    "review": "Core Logic and TypeScript. Learning TS interfaces and types caught multiple bugs early. The HTML5 canvas drawing and requestAnimationFrame loops made the game animations very engaging.",
+    "createdAt": "2026-07-16T08:50:00.000Z",
+    "helpfulCount": 1,
+    "tags": [
+      "Complexity",
+      "Clarity"
+    ]
+  },
+  {
+    "id": "rev-4",
+    "week": 6,
+    "reviewer": "Rohan Gupta",
+    "rating": 5,
+    "review": "Advanced Version Control and DevOps. Docker containerization solved the \"works on my machine\" issue completely. Writing Dockerfiles for both frontend and backend helped resolve the environment isolation issues.",
+    "createdAt": "2026-07-17T08:50:00.000Z",
+    "helpfulCount": 8,
+    "tags": [
+      "Clarity",
+      "Workload"
+    ]
+  },
+  {
+    "id": "rev-5",
+    "week": 7,
+    "reviewer": "Divya Iyer",
+    "rating": 4,
+    "review": "Deployment Strategies. Setting up the automated CI/CD pipeline with GitHub Actions was fantastic. Seeing the full-stack application deployed live on the web made all the hard work worth it!",
+    "createdAt": "2026-07-18T08:50:00.000Z",
+    "helpfulCount": 2,
+    "tags": [
+      "Support",
+      "Pacing"
+    ]
+  }
+]
